@@ -5,3 +5,7 @@ andi 001100
 ori  001101
 beq  000100
 bne  000101
+addi.s 011001
+subi.s 010110
+addi.d 011011
+subi.s 010111
